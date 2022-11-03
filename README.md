@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dringeis
 - 👀 I’m interested in sea ice physics, climate models, 
 - 🌱 I’m currently learning FORTRAN, Machine Learning and many other!
-- 💞️ I’m looking to collaborate on sea ice rheological models and 
+- 💞️ I’m looking to collaborate on sea ice rheological models with machine learning 
 - 📫 How to reach me: email me damien.ringeisen@mcgill.ca
